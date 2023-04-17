@@ -2,7 +2,7 @@
 
 ## Screenshots related to task completion:
 
-### 1- AMI image
+### 1 - AMI image
 ![ami](./img//ami.png)
 
 ### 2 - Kreiran ALB koji je povezan sa target grupom
@@ -24,4 +24,4 @@
 ![groups](./img//sec-groups.png)
 
 ### 7 DNS Name
-alb-web-servers-1304028128.eu-central-1.elb.amazonaws.com
+- `alb-web-servers-1304028128.eu-central-1.elb.amazonaws.com`
