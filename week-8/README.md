@@ -24,4 +24,4 @@
 ![groups](./img//sec-groups.png)
 
 ### 7 DNS Name
-[link Dns](alb-web-servers-1304028128.eu-central-1.elb.amazonaws.com)
+alb-web-servers-1304028128.eu-central-1.elb.amazonaws.com
