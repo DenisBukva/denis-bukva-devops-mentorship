@@ -10,8 +10,6 @@
 ![website-hosting](./img/static-website-hosting.png)
 - Certifikat
 ![certificate](./img/certifikat.png)
-- Final version
-![final](img/final.PNG)
 
 ## TASK-9 commands
 
